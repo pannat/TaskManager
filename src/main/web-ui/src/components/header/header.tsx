@@ -1,13 +1,12 @@
 import React from 'react';
 
-class Header extends React.Component {
+class MainHeader extends React.Component {
     render() {
         return (
-            <header className="main-footer">
-                <h1>Task manager</h1>
+            <header className="header">
             </header>
         );
     }
 }
 
-export default Header;
+export default MainHeader;
